@@ -1,0 +1,22 @@
+{
+  "name": "thenetninja-bs5course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lassejon/bookSale.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lassejon/bookSale/issues"
+  },
+  "homepage": "https://github.com/lassejon/bookSale#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
